@@ -1,14 +1,8 @@
 # Nature x numbers
 
-## Links
 
-### R lessons
-### Data
+## Data
 
-## Uploads
+Day 1: [Sensor lab data](https://drive.google.com/drive/folders/1dVlaL876arFz3qgcEuDzPYD1EftZvfw9?usp=sharing)
 
-### Data uploads
-- Practice HOBO logger data
-- Nara Wetland data
 
-### [Final projects](https://drive.google.com/drive/folders/1pTC5d01E-Fi_UGiPBvTMy9L9QGqCoW95?usp=sharing)
