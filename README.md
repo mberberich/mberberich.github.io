@@ -1,6 +1,8 @@
 # Nature x numbers
 
 
+[Course survey](https://michigantech.qualtrics.com/jfe/form/SV_b2RWp7TLET82cia)
+
 ## Data
 
 Day 1: [Sensor lab data](https://drive.google.com/drive/folders/1dVlaL876arFz3qgcEuDzPYD1EftZvfw9?usp=sharing)
